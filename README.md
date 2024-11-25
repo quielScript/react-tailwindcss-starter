@@ -1,8 +1,15 @@
-# React + Vite
+# ReactJS with TailwindCss Starter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Clone
+```js
+git clone https://github.com/quielLovesLasagna/react-tailwindcss-starter my-app
+```
 
-Currently, two official plugins are available:
+After cloning, remove the existing git repository to be able to initialize a new git repository 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Remove .git
+```js
+Remove-Item -Recurse -Force .git
+```
+
+### Enjoy!
