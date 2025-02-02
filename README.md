@@ -2,7 +2,7 @@
 
 ### Clone
 ```js
-git clone https://github.com/quielLovesLasagna/react-tailwindcss-starter my-app
+git clone https://github.com/quielScript/react-tailwindcss-starter project-name
 ```
 
 After cloning, remove the existing git repository to be able to initialize a new git repository 
